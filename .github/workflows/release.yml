@@ -1,7 +1,7 @@
 name: Release
-on:
-  schedule:
-    - cron: "0 3 * * 0"
+#on:
+#  schedule:
+#    - cron: "0 3 * * 0"
 
 jobs:
   release:
